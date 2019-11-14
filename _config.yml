@@ -1,11 +1,11 @@
-https://congddu.github.io# Site settings
+# Site settings
 title: CONGDDU
 email: congddu@naver.com
-url: 
-description: "게임 개발을 쉽게 해봅시다..."
-keywords: "your keywords, separated by commas"
+url: https://congddu.github.io
+description: "유니티 기반의 모바일 게임 개발자"
+keywords: "unity, developer, c#, game, designer
 skills: "Game Developer"
-meta_author: LastName FirstName
+meta_author: Kim Dahye
 
 # Google webmaster tools
 google_verify:
