@@ -1,11 +1,11 @@
 # Site settings
-title: CONGDDU
-email: congddu@naver.com
-url: https://congddu.github.io
-description: "유니티 기반의 모바일 게임 개발자"
-keywords: "unity, developer, c#, game, designer
-skills: "Game Developer"
-meta_author: Kim Dahye
+title: Freelancer
+email: your-email@domain.com
+url: https://example.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "your keywords, separated by commas"
+skills: "Web Developer - Graphic Artist - User Experience Designer"
+meta_author: LastName FirstName
 
 # Google webmaster tools
 google_verify:
@@ -14,7 +14,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -32,9 +32,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: congddu
-  location: 스킬
-  social: 소셜
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
